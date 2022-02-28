@@ -1,5 +1,13 @@
-# Project - Face Detection Security System
-# by - admin@make2explore.com
+# ---------------------------------- make2explore.com-------------------------------------------------------------------------#
+# Project           - Face Recognition based Door/Gate Security System 
+# Created By        - info@make2explore.com
+# Version - 1.0
+# Last Modified     - 24/02/2022 15:00:00 @admin
+# Software          - Python, Thonny IDE, Standard Python Libraries, OpenCV, Keras, TensorFlow etc.
+# Hardware          - Raspberry Pi 4 model B, Logitech c270 webcam, i2c LCD, EM-18 RFID Reader, Level Converter, SG-90 Servo
+# Sensors Used      - EM-18 RFID Reader, Logitech c270 webcam
+# Source Repo       - https://github.com/make2explore/Face-Recognition-Based-Gate-Door-Opening-System
+# ----------------------------------------------------------------------------------------------------------------------------#
 
 import RPi.GPIO as GPIO
 from gpiozero import Servo
