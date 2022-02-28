@@ -318,3 +318,5 @@ except KeyboardInterrupt:
        servo.value = None;
        GPIO.cleanup()
        data.close()
+
+# ---------------------------------- make2explore.com-------------------------------------------------------------------------#
