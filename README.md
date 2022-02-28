@@ -46,7 +46,7 @@ Import time and Serial library from program itself
 > import time  
 > import serial  
 
-Use Pip pyhton package manager to install following libraries  
+Use Pip Python package manager to install following libraries  
 
 
 > pip3 install opencv-python
