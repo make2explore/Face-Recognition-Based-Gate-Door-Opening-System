@@ -1,4 +1,4 @@
-# [Project] Face Recognition based Gate/Door Security system
+<h2>  [Project] Face Recognition based Gate/Door Security system </h2>
 
 -  <em> Code of EM18 RFID interfacing </em> - added  ✅  
 
