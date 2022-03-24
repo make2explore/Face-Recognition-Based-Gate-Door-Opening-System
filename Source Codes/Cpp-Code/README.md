@@ -1,12 +1,12 @@
-[Project] Face Recognition based Gate/Door Security system
+# [Project] Face Recognition based Gate/Door Security system
 
-Code of EM18 RFID interfacing - added
+<em> Code of EM18 RFID interfacing </em> - added
 
-CPP code with all interfacing - Coming Soon ..
+<em> CPP code with all interfacing </em> - Coming Soon ..
 
-Face Recognition main code Citations -  
+**Face Recognition main code Citations** -  
   
-Referred Codes from Q-Engineering  
+== > Referred Codes from Q-Engineering  
   
 Source code -->   
 
@@ -18,4 +18,4 @@ Source code -->
     
 📎 Referred by make2explore 2022/03/01  
   
-Source Code Credits ❤️ -  markson zhang, Xinghao Chen, Q-Engineering  
+Source Code Credits ❤️ -  Thank you - [markson zhang, Xinghao Chen, Q-Engineering]  
