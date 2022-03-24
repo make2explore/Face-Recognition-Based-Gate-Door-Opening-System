@@ -4,7 +4,7 @@
 
 <em> CPP code with all interfacing </em> - Coming Soon ..
 
-
+  
 
 **Face Recognition main code Citations** -  
   
@@ -20,6 +20,6 @@ Source code -->
     
 📎 Referred by make2explore 2022/03/01  
 
-
+  
   
 Source Code Credits ❤️ -  Thank you - [markson zhang, Xinghao Chen, Q-Engineering]  
