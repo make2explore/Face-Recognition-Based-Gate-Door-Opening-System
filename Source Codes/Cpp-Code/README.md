@@ -9,9 +9,7 @@
 <br>  
 
 **Face Recognition main code Citations** -  
-  
-== > Referred Codes from [Q-engineering](https://qengineering.eu)    
-  
+
 Source code -->   
 
 📎 Created by markson zhang  
