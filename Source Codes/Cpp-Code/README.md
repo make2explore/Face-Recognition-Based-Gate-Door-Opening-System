@@ -10,7 +10,7 @@
 
 **Face Recognition main code Citations** -  
   
-== > Referred Codes from Q-Engineering  
+== > Referred Codes from [Q-engineering](https://qengineering.eu)    
   
 Source code -->   
 
@@ -18,7 +18,7 @@ Source code -->
     
 📎 Edited by Xinghao Chen 2020/7/27  
    
-📎 Modified by Q-engineering 2020/12/28  
+📎 Modified by [Q-engineering](https://qengineering.eu) 2020/12/28  
     
 📎 Referred by make2explore 2022/03/01  
 
